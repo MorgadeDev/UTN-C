@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1490112217 source:d:\escritorio\facu\programacion y lab 1\tp pilas\tp pilas\pila.c
+	"pila.h"
+
+1490112217 d:\escritorio\facu\programacion y lab 1\tp pilas\tp pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1648667799 source:d:\escritorio\programacion y lab 1\tp pilas\tp pilas\pila.c
+	"pila.h"
+
+1490112217 d:\escritorio\programacion y lab 1\tp pilas\tp pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1648905631 source:d:\escritorio\programacion y lab 1\tp pilas\tp pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1648397096 source:c:\users\neto\desktop\nueva carpeta\programacion y lab 1\tp pilas\tp pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 c:\users\neto\desktop\nueva carpeta\programacion y lab 1\tp pilas\tp pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\neto\desktop\nueva carpeta\programacion y lab 1\tp pilas\tp pilas\pila.c
+	"pila.h"
+
+1648667799 source:d:\escritorio\programacion y lab 1\tp´s\2 pilas\tp pilas\pila.c
+	"pila.h"
+
+1490112217 d:\escritorio\programacion y lab 1\tp´s\2 pilas\tp pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1653964569 source:d:\escritorio\programacion y lab 1\tp´s\2 pilas\tp pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

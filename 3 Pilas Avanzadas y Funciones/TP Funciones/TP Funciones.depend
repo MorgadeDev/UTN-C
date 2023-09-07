@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1649342293 source:d:\escritorio\programacion y lab 1\funciones\tp funciones\pila.c
+	"pila.h"
+
+1490112217 d:\escritorio\programacion y lab 1\funciones\tp funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650454463 source:d:\escritorio\programacion y lab 1\funciones\tp funciones\tp fun.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"math.h"
+
+1649243720 source:d:\escritorio\programacion y lab 1\funciones\tp funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
