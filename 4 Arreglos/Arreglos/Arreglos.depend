@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1490112217 source:d:\escritorio\programacion y lab 1\tp arreglos\arreglos\pila.c
+	"pila.h"
+
+1490112217 d:\escritorio\programacion y lab 1\tp arreglos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1651407849 source:d:\escritorio\programacion y lab 1\tp arreglos\arreglos\arreglos.c
+	<stdbool.h>
+	"pila.h"
+
+1650546592 source:d:\escritorio\programacion y lab 1\tp arreglos\clase strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
