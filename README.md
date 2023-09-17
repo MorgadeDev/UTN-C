@@ -1,2 +1,3 @@
 # UTN-C
-Guias completas del primer cuatrimeste
+Guias completas del primer cuatrimeste Tecnicatura Universitaria en Programacion
+Lenguaje: C
