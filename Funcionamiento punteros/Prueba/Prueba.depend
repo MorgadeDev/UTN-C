@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1490112217 source:d:\escritorio\programacion y lab 1\funciones\prueba\prueba\pila.c
+	"pila.h"
+
+1490112217 d:\escritorio\programacion y lab 1\funciones\prueba\prueba\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1649333142 source:d:\escritorio\programacion y lab 1\tp´s\3 pilas avanzadas y funciones\prueba\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 d:\escritorio\programacion y lab 1\tp´s\3 pilas avanzadas y funciones\prueba\prueba\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:d:\escritorio\programacion y lab 1\tp´s\3 pilas avanzadas y funciones\prueba\prueba\pila.c
+	"pila.h"
+
